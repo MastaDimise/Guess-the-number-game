@@ -22,8 +22,8 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone https://github.com/MastaDimise/homeWork2.git
-    cd homeWork2
+    git clone https://github.com/MastaDimise/Guess-the-number-game.git
+    cd Guess-the-number-game
     ```
 
 2.  **Скомпилируйте проект:**
